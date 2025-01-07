@@ -1,4 +1,4 @@
-![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png) 
+![Docker Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oc9rEzkFAbyQxF6TYgfCoCwmKjsFH9O8QA&s) 
 ![Hadoop Logo](https://hadoop.apache.org/images/hadoop-logo.jpg)
 ---
 title: "Hadoop Single-Node Cluster on Docker Setup"
