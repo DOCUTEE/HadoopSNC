@@ -2,7 +2,6 @@
 ![Hadoop Logo](https://hadoop.apache.org/images/hadoop-logo.jpg)
 ---
 "Hadoop Single-Node Cluster on Docker Setup"
-Author: DOCUTEE 
 ---
 
 # Introduction
