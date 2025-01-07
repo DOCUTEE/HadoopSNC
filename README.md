@@ -37,14 +37,10 @@ You have successfully set up a Hadoop single-node cluster on Docker. You can now
 
 # References
 
-1. [Hadoop Official Documentation](https://hadoop.apache.org/docs/stable/)
+1. Kiwenlau. *Hadoop Cluster on Docker*. GitHub repository, [https://github.com/kiwenlau/hadoop-cluster-docker](https://github.com/kiwenlau/hadoop-cluster-docker).
 
-2. [Docker Documentation](https://docs.docker.com/)
+2. *Docker Workshop Guide*. Available at: [https://docs.docker.com/get-started/workshop/](https://docs.docker.com/get-started/workshop/).
 
-3. Kiwenlau. *Hadoop Cluster on Docker*. GitHub repository, [https://github.com/kiwenlau/hadoop-cluster-docker](https://github.com/kiwenlau/hadoop-cluster-docker).
-
-4. *Docker Workshop Guide*. Available at: [https://docs.docker.com/get-started/workshop/](https://docs.docker.com/get-started/workshop/).
-
-5. *Hadoop Single Node Cluster Guide*. Available at: [https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html).
+3. *Hadoop Single Node Cluster Guide*. Available at: [https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html).
 
 
