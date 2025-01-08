@@ -28,7 +28,7 @@ docker pull docutee/hadoop_single
 Run the Docker container with the following command:
 
 ```bash
-docker run -it --hostname hadoop-master docutee/hadoop_single
+docker run -it --hostname minhquang-master docutee/hadoop_single
 ```
 
 ## Conclusion
